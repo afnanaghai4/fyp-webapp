@@ -1,0 +1,267 @@
+.rectangle-3-research {
+    border: 3px solid var(--orange-peel);
+    border-radius: 5px;
+    height: 43px;
+    width: 42px;
+    position:absolute;
+    left:1350px;
+    top:380px;
+  }
+
+
+
+.a-single-neuron-in-t {
+    letter-spacing: 0.00px;
+    line-height: 49px;
+    min-height: 335px;
+    text-align: center;
+    width: 926px;
+    color: var(--white);
+    font-family: var(--font-family-helveticaneue-bold);
+    font-size: var(--font-size-xxxxxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  .title-research{
+    letter-spacing: 0.00px;
+    line-height: 49px;
+    min-height: 41px;
+    white-space: nowrap;
+    color: var(--white);
+    font-family: var(--font-family-helveticaneue-bold);
+    font-size: var(--font-size-xxxxxxl);
+    font-style: normal;
+    font-weight: 700;
+  }
+
+  :root {
+    --font-family-helveticaneue-bold: "HelveticaNeue-Bold", Helvetica;
+    --font-family-helveticaneue-medium: "HelveticaNeue-Medium", Helvetica;
+    --font-family-helveticaneue-regular: "HelveticaNeue-Regular", Helvetica;
+    --font-size-xxxxxxl: 35px;
+    --white: rgba(255, 255, 255, 1);
+    --orange-peel: rgba(255, 156, 0, 1);
+    --black: rgba(0, 0, 0, 1);
+    --font-family-segoe_ui: "Segoe UI", Helvetica;
+    --font-size-l: 40px;
+}
+
+  .position-firstresearch{
+      position:absolute;
+      left:450px;
+      top:200px
+  }
+
+  .title-research{
+      position:absolute;
+      left:670px;
+      top:250px
+  }
+
+  .secondpart-research{
+      height: 700px;
+      width:1920px;
+      
+      position:absolute;
+      top:1200px;
+      
+      
+  }
+
+  .recentpaper {
+    height: 524px;
+    object-fit: cover;
+    width: 405px;
+    position: absolute;
+    left:250px;
+    top:150px;
+  }
+
+  .abstract-skin-can {
+    letter-spacing: 0.00px;
+    line-height: 25px;
+    min-height: 407px;
+    width: 886px;
+    color: var(--black);
+    font-family: var(--font-family-segoe_ui);
+    font-size: var(--font-size-l);
+    position:absolute;
+    left:700px;
+    top:170px
+
+  }
+
+  .span1-research {
+    color: rgba(26,86,164,1.0);
+    font-family: 'SegoeUI-Bold', Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+  }
+  .span2-research {
+    color: rgba(0,0,0,1.0);
+    font-family: 'SegoeUI-Bold', Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+  }
+  .span3-research {
+    color: rgba(0,0,0,1.0);
+    font-family: 'Corbel-Bold', Helvetica;
+    font-size: 25px;
+    font-weight: 700;
+  }
+
+  .recent-paper{
+    position:absolute;
+    font-size:40px;
+    top:-150px;
+    font-style: normal;
+    font-weight: 650;
+    color: var(--fun-blue);
+    letter-spacing: 0.00px;
+    line-height: 40px;
+  }
+
+  .thirdpart-research{
+      background-image: url("Mask_Group_1.png");
+      position: absolute;
+      top:2000px;
+      height: 865px;
+      width: 100%;
+      background-size: cover;
+      background-position: 50% 50%;
+  }
+
+  .text-1-research{
+      color:white;
+      position:absolute;
+      top:50px;
+      left:600px;
+      font-size:40px;
+      font-style: normal;
+      font-weight: 700;
+      letter-spacing: 0.00px;
+      line-height: 40px;
+  }
+
+  .image1 {
+    height: 509px;
+    object-fit: cover;
+    width: 360px;
+    position:absolute;
+    left:200px;
+    top:200px
+  }
+
+  .image2 {
+    height: 510px;
+    object-fit: cover;
+    width: 388px;
+    position:absolute;
+    left:800px;
+    top:200px
+  }
+
+  .image3 {
+    height: 510px;
+    object-fit: cover;
+    width: 388px;
+    position:absolute;
+    left:1400px;
+    top:200px
+  }
+
+  .text-1-thirdpart1 {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    white-space: nowrap;
+    color: white;
+    font-family:var(--font-family-helveticaneue-medium); 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    position:absolute;
+    left:200px;
+    top:750px
+  }
+
+  .text-1-thirdpart2 {
+    height: 46px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 46px;
+    width: 365px;
+    color: white;
+    font-family: var(--font-family-helveticaneue-regular);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    position:absolute;
+    left:200px;
+    top:770px;
+  }
+
+  .text-2-thirdpart1 {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    white-space: nowrap;
+    color: white;
+    font-family:var(--font-family-helveticaneue-medium); 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    position:absolute;
+    left:800px;
+    top:750px
+  }
+
+  .text-2-thirdpart2 {
+    height: 46px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 46px;
+    width: 365px;
+    color: white;
+    font-family: var(--font-family-helveticaneue-regular);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    position:absolute;
+    left:800px;
+    top:770px;
+  }
+
+  .text-3-thirdpart1 {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    white-space: nowrap;
+    color: white;
+    font-family:var(--font-family-helveticaneue-medium); 
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    position:absolute;
+    left:1400px;
+    top:750px
+  }
+
+  .text-3-thirdpart2 {
+    height: 46px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 46px;
+    width: 365px;
+    color: white;
+    font-family: var(--font-family-helveticaneue-regular);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    position:absolute;
+    left:1400px;
+    top:770px;
+  }
+
+  

@@ -1,0 +1,302 @@
+.major-footer{
+    left:0;
+    bottom:0
+}
+
+
+
+.bg {
+    align-items: flex-start;
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    min-width: 1920px;
+  }
+  .rectangle-38 {
+    background-color: var(--black-pearl);
+    height: 506px;
+    opacity: 0.99;
+    width: 1920px;
+  }
+
+  .rotation-1-footer {
+    height: 46px;
+    object-fit: cover;
+    width: 46px;
+    
+  }
+  .title-part1footer {
+    letter-spacing: 0.00px;
+    line-height: 32px;
+    min-height: 45px;
+    white-space: nowrap;
+    color: white;
+    font-family: "Barlow", Helvetica;
+    font-size: 32;
+    font-style: normal;
+    font-weight: 700;
+    position:relative;
+    left:55px;
+    top:-15px
+  }
+
+  .footer-part1{
+      position:relative;
+      top:50px;
+      left:200px
+  }
+
+  .text-1-footerpart1 {
+    height: 49px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 49px;
+    width: 349px;
+    color: var(--cadet-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .about-us {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 23px;
+    min-height: 22px;
+    white-space: nowrap;
+  }
+  .company {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 219px;
+    width: 82px;
+    position:relative;
+    left:800px;
+    top:50px
+  }
+  .company-1 {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: -1px;
+    min-height: 26px;
+    white-space: nowrap;
+    color: white;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .company-item {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 15px;
+    min-height: 22px;
+    white-space: nowrap;
+    color: var(--cadet-blue);
+    font-family:"HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .contact-us {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 23px;
+    min-height: 22px;
+    white-space: nowrap;
+    
+  }
+  .support {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 219px;
+    width: 91px;
+    position:relative;
+    left:1050px;
+    top:50px
+  }
+  .support-1 {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: -1px;
+    min-height: 26px;
+    white-space: nowrap;
+    color: white;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .support-item {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 15px;
+    min-height: 22px;
+    white-space: nowrap;
+    color: var(--cadet-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .contact {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 219px;
+    width: 180px;
+    position:relative;
+    left:1300px;
+    top:55px
+  }
+  .contact-item {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 15px;
+    min-height: 22px;
+    white-space: nowrap;
+    color: var(--cadet-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .text-1-contact {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-bottom: -4px;
+    margin-top: 23px;
+    min-height: 22px;
+    white-space: nowrap;
+    color: var(--cadet-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+
+
+  .place {
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: -1px;
+    min-height: 26px;
+    white-space: nowrap;
+    color: white;
+    font-family:"HelveticaNeue-Bold", Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    position:relative;
+    left:-30px
+
+  }
+
+  .text-1-footerpart2 {
+    height: 25px;
+    letter-spacing: 0.00px;
+    line-height: 18px;
+    min-height: 25px;
+    width: 241px;
+    color: white;
+    font-family:  "HelveticaNeue-Bold", Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    position:relative;
+    left:200px;
+    top:200px
+  }
+
+  .box-footer {
+    background-color: white;
+    border-radius: 5px;
+    height: 20px;
+    min-width: 427px;
+    width:20px;
+    padding: 17px 20px;
+  }
+  .text-2-footerpart2 {
+    letter-spacing: 0.00px;
+    line-height: 15px;
+    min-height: 10px;
+    white-space: nowrap;
+    color: var(--pale-sky);
+    font-family:  "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .place {
+    letter-spacing: 0.00px;
+    line-height: 15px;
+    min-height: 19px;
+    min-width: 39px;
+    white-space: nowrap;
+    color: white;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .send-footer {
+    background-color:var(--denim);
+    align-items: flex-end;
+    display: flex;
+    height: 23px;
+    justify-content: flex-end;
+    min-width: 86px;
+    width:30px;
+    padding: 16px 22px;
+    position:relative;
+    left:350px;
+    top:-55px
+    
+  }
+  
+  .footer-part2{
+      position:relative;
+      left:200px;
+      top:250px
+  }
+
+  .rectangle-12 {
+    background-color: var(--white);
+    height: 1px;
+    width: 1140px;
+    position:relative;
+    left:270px;
+    top:250px
+  }
+
+  .span-footer{
+    color: rgba(169,178,188,1.0);
+    font-family: 'HelveticaNeue-Regular', Helvetica;
+    font-size: 14px;
+    position:relative;
+    left:1200px;
+    top:250px 
+  }
+
+  :root {
+    --denim: rgba(37, 103, 196, 1);
+    --black-pearl: rgba(1, 16, 33, 1);
+    --cadet-blue: rgba(169, 178, 188, 1);
+    --pale-sky: rgba(113, 121, 131, 1);
+}
+
+  

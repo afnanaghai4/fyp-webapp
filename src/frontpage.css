@@ -1,0 +1,608 @@
+html{
+    background-image: url("path-1.png");
+    background-repeat: no-repeat;
+}
+.rotation-1-4 {
+    position:absolute;
+    height: 110px;
+    width: 110px;
+    bottom:20px;
+    left:70px     
+}
+
+.rotation-1-3 {
+    position:absolute;
+    height: 93px;
+    width: 93px;
+    left:200px;
+    top:400px
+  }
+
+  .rotation-1-1 {
+    position:absolute;
+    height: 195px;
+    width: 195px;
+    left:1000px;
+    top:650px
+  }
+
+  .rotation-1-2 {
+    position: absolute;
+    height: 195px;
+    width: 195px;
+    top:-27px;
+    left:1800px;
+  }
+
+  .x26081-converted {
+    position:absolute;
+    height: 534px;
+    width: 615px;
+    left: 1200px;
+  }
+
+  @font-face {
+    font-family: "HelveticaNeue-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Bold") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "HelveticaNeue-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Medium") format("truetype");
+  }
+  
+  .check-your-skin-now {
+    letter-spacing: 0px;
+    line-height: 15px;
+    min-height: 22px;
+    min-width: 142px;
+    white-space: nowrap;
+  }
+  .helveticaneue-bold-white-50px {
+    color: white;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .helveticaneue-regular-normal-white-18px xd {
+    color: white;
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .overlap-group {
+    height: 162px;
+    margin-top: 33px;
+    position: relative;
+    width: 704px;
+  }
+  .read-more {
+    align-items: flex-end;
+    background-color: var(--orange-peel);
+    border-radius: 5px;
+    display: flex;
+    height: 48px;
+    justify-content: flex-end;
+    left: 8px;
+    min-width: 198px;
+    padding: 9.5px 26px;
+    position: absolute;
+    top: 114px;
+  }
+  .slider-text {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 344px;
+    width: 2504px;
+    position:absolute;
+    left:400px;
+    top:250px;
+
+  }
+  .text-1 {
+    color:white;
+    letter-spacing: 0px;
+    line-height: 70px;
+    margin-bottom: -12px;
+    margin-top: 43px;
+    min-height: 58px;
+    white-space: nowrap;
+  }
+  .text-2 {
+    color:white;
+    height: 121px;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    top:50px;
+    position: relative;
+    width: 704px;
+    white-space:normal;
+  }
+  .title {
+    -webkit-text-stroke: 1px var(--science-blue);
+    align-self: flex-end;
+    letter-spacing: 0px;
+    line-height: 70px;
+    margin-bottom: -12px;
+    margin-top: -10px;
+    min-height: 58px;
+    white-space: nowrap;
+    width: 838px;
+  }
+
+  .read-more {
+    align-items: flex-end;
+    background-color: var(--orange-peel);
+    border-radius: 5px;
+    display: flex;
+    height: 48px;
+    overflow: hidden;
+    padding: 9.5px 26px;
+    width: 198px;
+  }
+
+  .helveticaneue-medium-white-15px xd {
+    color: white;
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+  }
+
+
+  :root {
+    --orange-peel: rgba(255, 156, 0, 1);
+    --science-blue: rgba(0, 86, 207, 1);
+  }
+  
+
+  @font-face {
+    font-family: "HelveticaNeue-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Regular") format("truetype");
+  }
+  
+  @font-face {
+    font-family: "HelveticaNeue-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Bold") format("truetype");
+  }
+  
+  .helveticaneue-bold-green-vogue-40px {
+    color: var(--green-vogue);
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .helveticaneue-regular-normal-nile-blue-15px {
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .text-1-1 {
+    color:black;
+    height: 60px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    margin-top: 5px;
+    min-height: 60px;
+    text-align: center;
+    width: 736px;
+  }
+  .title- {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 130px;
+    padding: 3.5px 0;
+    width: 736px;
+    left:600px;
+    top:900px;
+    position:relative
+  }
+  .title-1 {
+    color:var(--green vogue);
+    letter-spacing: 0px;
+    line-height: 40px;
+    margin-left: 18px;
+    min-height: 55px;
+    min-width: 264px;
+    white-space: nowrap;
+  }
+  :root {
+    --green-vogue: rgba(7, 39, 83, 1);
+    --nile-blue: rgba(40, 56, 78, 1);
+  }
+
+  .images {
+    border-radius: 11px;
+    height: 126px;
+    width: 150px;
+    position:absolute;
+    top:1250px;
+    left: 889px;
+  }
+
+  .schedule-your-next-check {
+    position: absolute;
+    height: 196px;
+    width: 196px;
+    top:1215px;
+    left:1200px
+  }
+ 
+  .login {
+    border-radius: 11px;
+    height: 126px;
+    width: 130px;
+    position:absolute;
+    top:1250px;
+    left: 590px;
+  }
+
+  
+  
+  @font-face {
+    font-family: "HelveticaNeue-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: url("https://fonts.animaapp.com/HelveticaNeue-Medium") format("truetype");
+  }
+  
+  .helveticaneue-medium-green-vogue-25px login{
+    color: var(--green-vogue);
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .helveticaneue-regular-normal-nile-blue-15px login{
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .log-in1 {
+    letter-spacing: 0px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 58px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight:bold;
+    font-size: 20px;
+    position:absolute;
+    left:513px;
+
+  }
+  .textlogin1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 117px;
+    padding: 0.5px 0;
+    width: 334px;
+    position:absolute;
+    left:-50px;
+    top:150px
+  }
+  .text-1-login1 {
+    height: 73px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    margin-top: 11px;
+    min-height: 73px;
+    width: 334px;
+    white-space:normal;
+    position:absolute;
+    top:1280px;
+    left:550px
+  }
+  :root {
+    --green-vogue: rgba(7, 39, 83, 1);
+    --nile-blue: rgba(40, 56, 78, 1);
+  }
+
+  .browse-image1 {
+    letter-spacing: 0px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 126px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight:bold;
+    font-size: 20px;
+  }
+  .helveticaneue-medium-green-vogue-20px browse{
+    color: var(--green-vogue);
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .helveticaneue-regular-normal-nile-blue-15px browse{
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .text-1-browse1 {
+    height: 73px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    margin-top: 12px;
+    min-height: 73px;
+    width: 334px;
+  }
+  .x21 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 118px;
+    padding: 0.5px 0;
+    width: 334px;
+    position:absolute;
+    top:1400px;
+    left:850px
+  }
+  
+
+  .get-results1 {
+    letter-spacing: 0px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 106px;
+    text-align: center;
+    white-space: nowrap;
+    font-weight: bold;
+    font-size:20px;
+  }
+  .helveticaneue-medium-green-vogue-20px get{
+    color: var(--green-vogue);
+    font-family: "HelveticaNeue-Medium", Helvetica;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  .helveticaneue-regular-normal-nile-blue-15px get {
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .text-1-getresults1 {
+    height: 107px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    margin-top: 11px;
+    min-height: 107px;
+    width: 335px;
+    
+}
+  .x31 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    height: 151px;
+    padding: 0.5px 0;
+    width: 335px;
+    position:absolute;
+    top:1400px;
+    left:1200px
+  }
+  
+  #banner{
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    width:100%;
+    height:500px;
+    position: absolute;
+    top:1600px;
+}
+
+.mmmm {
+    position:absolute;
+    margin-left: 1200px;
+    height: 402px;
+    width: 719px;
+    top:40px;
+    left:-15px
+  }
+
+  
+  .mscd{
+    color:var(--green-vogue);
+    letter-spacing: 0px;
+    line-height: 40px;
+    margin-left: 18px;
+    min-height: 55px;
+    min-width: 264px;
+    white-space: nowrap;
+    position: absolute;
+    margin-left:400px;
+    top:60px
+  }
+
+  .helveticaneue-bold-green-vogue-40px why{
+        color: var(--green-vogue);
+        font-family: "HelveticaNeue-Bold", Helvetica;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 700;
+  }
+
+  :root {
+    --green-vogue: rgba(7, 39, 83, 1);
+  }
+
+  
+  .title-1-why {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 106.5px;
+    min-height: 230px;
+    padding: 3.5px 0;
+    width: 597px;
+  }
+
+  .mscd-uses-ai-models {
+    height: 149px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    margin-top: 15px;
+    min-height: 149px;
+    width: 597px;
+    position: absolute;
+    left:400px;
+    top:170px
+   
+  }
+
+  .helveticaneue-regular-normal-nile-blue-15px mscd-uses {
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .img3 {
+    height: 496px;
+    width: 631px;
+    position: absolute;
+    top:2300px;
+  }
+
+  .helveticaneue-bold-green-vogue-40px anyleads{
+    color: var(--green-vogue);
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .text-1-anyleads {
+    letter-spacing: 0px;
+    line-height: 40px;
+    min-height: 55px;
+    min-width: 697px;
+    white-space: nowrap;
+    position: absolute;
+    top:2300px;
+    left:800px;
+  }
+
+  .because-it-is-pleasu {
+    color: var(--nile-blue);
+    height: 149px;
+    letter-spacing: 0px;
+    line-height: 26px;
+    min-height: 149px;
+    width: 597px;
+    position:absolute;
+    top:2400px;
+    left:800px;
+    font-size:15px
+  }
+  .helveticaneue-regular-normal-nile-blue-15px be {
+    color: var(--nile-blue);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  :root {
+    --nile-blue: rgba(40, 56, 78, 1);
+  }
+
+
+  .border-1px-bizarre {
+    border: 1px solid var(--bizarre);
+  }
+  .box {
+    align-items: flex-start;
+    background-color: var(--desert-storm);
+    border-radius: 5px;
+    display: flex;
+    height: 60px;
+    left: 0px;
+    min-width: 541px;
+    padding: 16px 19px;
+    position: absolute;
+    top: 0px;
+  }
+  .email {
+    align-items: flex-start;
+    display: flex;
+    width: 541px;
+  }
+  .helveticaneue-bold-white-15px place {
+    color: white;
+    font-family: "HelveticaNeue-Bold", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+  }
+  .helveticaneue-regular-normal-black-coral-pearl-15px email {
+    color: var(--black-coral-pearl);
+    font-family: "HelveticaNeue-Regular", Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  .overlap-group {
+    border-radius: 5px;
+    height: 60px;
+    position: relative;
+    width: 541px;
+  }
+  .place {
+    letter-spacing: 0px;
+    line-height: 15px;
+    min-height: 19px;
+    min-width: 39px;
+    white-space: nowrap;
+  }
+  .send {
+    align-items: flex-end;
+    background-color: var(--orange-peel);
+    border-radius: 5px;
+    display: flex;
+    height: 50px;
+    justify-content: flex-end;
+    left: 425px;
+    min-width: 111px;
+    padding: 13px 34px;
+    position: absolute;
+    top: 5px;
+  }
+  .text-1-email {
+    letter-spacing: 0px;
+    line-height: 26px;
+    min-height: 22px;
+    white-space: nowrap;
+  }
+  :root {
+    --bizarre: rgba(237, 229, 217, 1);
+    --black-coral-pearl: rgba(82, 93, 108, 1);
+    --desert-storm: rgba(250, 249, 247, 1);
+    --orange-peel: rgba(255, 156, 0, 1);
+  }
