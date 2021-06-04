@@ -1,0 +1,353 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow:700");
+
+@font-face {
+  font-family: "HelveticaNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/HelveticaNeue-Regular") format("truetype");
+}
+
+@font-face {
+  font-family: "SegoeUI-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/SegoeUI-Semibold") format("truetype");
+}
+
+@font-face {
+  font-family: "Corbel-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/Corbel-Bold") format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeue-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/HelveticaNeue-Bold") format("truetype");
+}
+
+@font-face {
+  font-family: "HelveticaNeue-Medium";
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://fonts.animaapp.com/HelveticaNeue-Medium") format("truetype");
+}
+
+@font-face {
+  font-family: "Corbel-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/Corbel-Regular") format("truetype");
+}
+
+@font-face {
+  font-family: "SegoeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://fonts.animaapp.com/SegoeUI-Regular") format("truetype");
+}
+
+@font-face {
+  font-family: "SegoeUI-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("https://fonts.animaapp.com/SegoeUI-Bold") format("truetype");
+}
+
+
+.banner{
+    background-image: url("doctorimage.png");
+    height: 865px;
+    width: 1920px;
+    position:absolute;
+    top:100px;
+}
+
+.banner2 {
+    background-image: url("bg1.png");
+    background-repeat: no-repeat;
+    width:100%;
+    height:500px;
+    position: absolute;
+    top:1100px;
+}
+
+  .rotation-1-2 {
+    position: absolute;
+    height: 195px;
+    width: 195px;
+    top:-27px;
+    left:1800px;
+  }
+
+
+ 
+.headingpart {
+    position:absolute;
+    left:650px;
+    top:350px;
+    width:500px
+}
+
+
+.span2 {
+    color: rgba(26,86,164,1.0);
+    font-family: 'SegoeUI-Semibold', Helvetica;
+    font-size: 45px;
+  }
+  .text-1 {
+    letter-spacing: 0.00px;
+    line-height: 45px;
+    min-height: 182px;
+    width: 424px;
+  }
+
+  .segoeui-normal-fun-blue-45px {
+    color: var(--fun-blue);
+    font-family: "Segoe UI", Helvetica;
+    font-size: 45px;
+  }
+  
+
+  .check-your-skin-now {
+    letter-spacing: 0.00px;
+    line-height: normal;
+    min-height: 25px;
+    min-width: 173px;
+    white-space: nowrap;
+  }
+  .read-more {
+    align-items: flex-end;
+    background-color: var(--orange-peel);
+    border-radius: 5px;
+    display: flex;
+    height: 60px;
+    overflow: hidden;
+    padding: 3px 50px;
+    width: 169px;
+    position:absolute;
+    top:750px;
+    left:720px
+  }
+
+  .segoeui-normal-white-30px {
+    color: white;
+    font-family: "SegoeUI-Semibold", Helvetica;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  :root {
+    --fun-blue: rgba(26, 86, 164, 1);
+    --orange-peel: rgba(255, 156, 0, 1);
+    --black: rgba(1, 1, 1, 1);
+    --green-vogue: rgba(7, 39, 83, 1);
+    --nile-blue: rgba(40, 56, 78, 1);
+  }
+
+  .text-1-how {
+    letter-spacing: 0.00px;
+    line-height: 45px;
+    min-height: 62px;
+    text-align: center;
+    width: 1096px;
+    position:absolute;
+    left:350px;
+    top:50px;
+    font-weight:450
+  }
+
+  .segoeui-normal-fun-blue-45px how {
+    color: var(--fun-blue);
+    font-family: "SegoeUI-Semibold", Helvetica;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+  }
+
+  .doctorimage2 {
+    border-radius: 36px;
+    height: 292px;
+    width: 520px;
+    position:absolute;
+    left: 90px;
+    top:170px
+  }
+
+  .span {
+    color: rgba(26,86,164,1.0);
+    font-family: 'SegoeUI-Semibold', Helvetica;
+    font-size: 45px;
+  }
+  .span-1 {
+    color: rgba(1,1,1,1.0);
+    font-family: 'SegoeUI-Regular', Helvetica;
+    font-size: 25px
+}
+
+  .span4 {
+    color: rgba(0,0,0,1.0);
+    font-family: 'SegoeUI-Regular', Helvetica;
+    font-size: 25px
+  }
+  .text-1how2 {
+    letter-spacing: 0.00px;
+    line-height: 30px;
+    min-height: 382px;
+    width: 818px;
+    position:absolute;
+    left:750px;
+    top:180px;
+    font-weight:300;
+    
+  }
+
+  .segoeui-normal-black-45px how2 {
+    color: var(--black);
+    font-family: "Segoe UI", Helvetica;
+    font-size: 45px;
+  }
+
+  .thirdpart { 
+      position:absolute;
+      width:836px;
+      height:1083px;
+      left:480px;
+      top:1750px;
+      align-items: center;
+     
+  }
+
+  .title-mscd3 {
+    font-style: normal;
+    font-weight: 700;
+    color: var(--fun-blue);
+    font-size: 40px;
+    letter-spacing: 0.00px;
+    line-height: 40px;
+    min-height: 55px;
+    min-width: 346px;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .log-in12 {
+    color: var(--green-vogue);
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 58px;
+    white-space: nowrap;
+    font-weight:bold;
+    font-size:18px;
+    
+  }
+  .text-login {
+    height: 117px;
+    padding: 0.5px 0;
+    width: 334px;
+    text-align:left;
+    position:absolute;
+    left:300px;
+    top:200px
+  }
+  .ASD {
+    color:var(--nile-blue);
+    height: 73px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: 17px;
+    min-height: 73px;
+    width: 334px;
+    position:absolute;
+    left:31px
+  }
+
+  .loginimage {
+    position:absolute;
+    left:100px;
+    top:200px;
+  }
+
+  .secondimage {
+    border-radius: 11px;
+    height: 126px;
+    width: 139px;
+    position:absolute;
+    left:100px;
+    top:450px;
+  }
+
+  .browse-image {
+    color:var(--green-vogue);
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 58px;
+    white-space: nowrap;
+    font-weight:bold;
+    font-size:18px;
+  }
+  .text-1-browse {
+    color:var(--nile-blue);
+    height: 73px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: 12px;
+    min-height: 73px;
+    width: 334px;
+  }
+  .x2 {
+    height: 118px;
+    padding: 0.5px 0;
+    width: 334px;
+    text-align:left;
+    position:absolute;
+    left:330px;
+    top:450px
+  }
+
+  .thirdimage {
+    height: 196px;
+    width: 196px;
+    position:absolute;
+    left:75px;
+    top:650px;
+  }
+
+  .x3 {
+    height: 118px;
+    padding: 0.5px 0;
+    width: 334px;
+    text-align:left;
+    position:absolute;
+    left:330px;
+    top:680px
+  }
+
+  .get-results {
+    color:var(--green-vogue);
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    min-height: 29px;
+    min-width: 58px;
+    white-space: nowrap;
+    font-weight:bold;
+    font-size:18px;
+  }
+
+  .text-1-getresults {
+    color:var(--nile-blue);
+    height: 73px;
+    letter-spacing: 0.00px;
+    line-height: 26px;
+    margin-top: 12px;
+    min-height: 73px;
+    width: 334px;
+  }
+
+
+  
